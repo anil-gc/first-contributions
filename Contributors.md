@@ -96,6 +96,7 @@
 - [Kiran Gosu](https://github.com/kirankumargosu)
 - [Olaleye Fuad](https://github.com/theylovefuad)
 - [Divyanshu Trivedi]
+- [anil gc](https://github.com/anil-gc)
 - [Rupesh Mangalam](https://github.com/springdaysenpai)
 - [Bliss Felix] (https://github.com/BlissFelix3)
 - [Niso](https://github.com/nisanohana3)
